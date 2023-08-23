@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sonicfan30
-- 👀 I’m interested in Modding
-- 🌱 I’m currently learning how to make scripts
-- 💞️ I’m looking to collaborate on Sonic 3 A.I.R. Mods
-- 📫 How to reach me learning
+- 👋 Hi, I’m Krisma
+- 👀 I’m interested in SM64 Machinimas
+- 🌱 I’m currently learning how to greenscreen
+- 💞️ I’m looking to make more machinimas
+- 📫 How to reach me (idk)
 
 <!---
 sonicfan30/sonicfan30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
